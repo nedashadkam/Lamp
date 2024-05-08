@@ -1,0 +1,40 @@
+/* fallback */
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: url("./assets/icons/material-icons/flUhRq6tzZclQEJ-Vdg-IuiaDsNc\ \(1\).woff2") format('woff2');
+}
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}
+
+div {
+    background-color: aliceblue;
+    border: 1px solid darkcyan;
+    width: 20%;
+    padding: 2%;
+    text-align: center;
+    border-radius: 5px;
+    color: cadetblue;
+    margin-left: 38%;
+    margin-top: 25vh;
+}
+
+#lamp {
+    font-size: 10em;
+    color: darkgray;
+}
